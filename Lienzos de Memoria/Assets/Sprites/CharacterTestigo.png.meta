@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 26f773e0b4be1da46adf36b671209413
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5577679692728099008
+    second: CharacterTestigo_0
+  - first:
+      213: -3959572273258334489
+    second: CharacterTestigo_1
+  - first:
+      213: 4833029644902241132
+    second: CharacterTestigo_2
+  - first:
+      213: -9902290476359944
+    second: CharacterTestigo_3
+  - first:
+      213: 5652078695430163551
+    second: CharacterTestigo_4
+  - first:
+      213: 4513985656543207181
+    second: CharacterTestigo_5
+  - first:
+      213: -9181501482868271660
+    second: CharacterTestigo_6
+  - first:
+      213: -2153536397722441684
+    second: CharacterTestigo_7
+  - first:
+      213: -1304961921198849002
+    second: CharacterTestigo_8
+  - first:
+      213: 8530690906191783697
+    second: CharacterTestigo_9
+  - first:
+      213: -1954078537204466581
+    second: CharacterTestigo_10
+  - first:
+      213: -4952247680877039408
+    second: CharacterTestigo_11
+  - first:
+      213: -4192173708698128903
+    second: CharacterTestigo_12
+  - first:
+      213: 7652923938405108949
+    second: CharacterTestigo_13
+  - first:
+      213: -6218676150094277537
+    second: CharacterTestigo_14
+  - first:
+      213: 1515599935998484856
+    second: CharacterTestigo_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterTestigo_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 372
+        width: 52
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f180c0fd91892b0800000000000000
+      internalID: -5577679692728099008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 369
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e673f50ff5cc09c0800000000000000
+      internalID: -3959572273258334489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 369
+        width: 52
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6394550bde521340800000000000000
+      internalID: 4833029644902241132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 369
+        width: 52
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe91b55be1dcdff0800000000000000
+      internalID: -9902290476359944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 249
+        width: 52
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c0ba3a0a7307e40800000000000000
+      internalID: 5652078695430163551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 248
+        width: 53
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f577bd906e4ae30800000000000000
+      internalID: 4513985656543207181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 247
+        width: 52
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d51ae80c01c49080800000000000000
+      internalID: -9181501482868271660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 247
+        width: 53
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2821e26e0a1d12e0800000000000000
+      internalID: -2153536397722441684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 135
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6140881fb08d3ede0800000000000000
+      internalID: -1304961921198849002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 136
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11767308e2a136670800000000000000
+      internalID: 8530690906191783697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_10
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 135
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c76be6ce7b1e4e0800000000000000
+      internalID: -1954078537204466581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 135
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0729de8f4164bb0800000000000000
+      internalID: -4952247680877039408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 19
+        width: 59
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fde058193862d5c0800000000000000
+      internalID: -4192173708698128903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 19
+        width: 63
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc48b966c5a43a60800000000000000
+      internalID: 7652923938405108949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 19
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54df6c4df2d2b9a0800000000000000
+      internalID: -6218676150094277537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTestigo_15
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 18
+        width: 62
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8716bce9c1e780510800000000000000
+      internalID: 1515599935998484856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CharacterTestigo_0: -5577679692728099008
+      CharacterTestigo_1: -3959572273258334489
+      CharacterTestigo_10: -1954078537204466581
+      CharacterTestigo_11: -4952247680877039408
+      CharacterTestigo_12: -4192173708698128903
+      CharacterTestigo_13: 7652923938405108949
+      CharacterTestigo_14: -6218676150094277537
+      CharacterTestigo_15: 1515599935998484856
+      CharacterTestigo_2: 4833029644902241132
+      CharacterTestigo_3: -9902290476359944
+      CharacterTestigo_4: 5652078695430163551
+      CharacterTestigo_5: 4513985656543207181
+      CharacterTestigo_6: -9181501482868271660
+      CharacterTestigo_7: -2153536397722441684
+      CharacterTestigo_8: -1304961921198849002
+      CharacterTestigo_9: 8530690906191783697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
